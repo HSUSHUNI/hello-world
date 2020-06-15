@@ -1,4 +1,7 @@
-# hello-world
-hello world
 
-i'm mike
+
+public class MyClass {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
